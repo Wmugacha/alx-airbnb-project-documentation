@@ -1,25 +1,4 @@
 ![Use Case Diagram](./use_case.png)
-Sure! Here's documentation info in **README-style markdown** that describes the system's architecture and key modules (user authentication, property management, booking system, and payments), including use case descriptions:
-
-```markdown
-# 🏡 Property Booking Platform Backend
-
-This backend system powers a property booking platform similar to Airbnb. It handles user authentication, property listings, messaging, booking, payments, and reviews.
-
----
-
-## 🧱 System Architecture Overview
-
-The system follows a **modular layered architecture**, consisting of:
-
-- **Presentation Layer (Client App)**
-- **Backend API Layer (Business Logic)**
-- **Data Access Layer (ORM/SQL)**
-- **Database Layer (PostgreSQL / MySQL)**
-
-Each module is designed with maintainability, scalability, and security in mind.
-
----
 
 ## 📦 Functional Modules
 
