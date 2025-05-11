@@ -21,6 +21,6 @@
 
 ---
 `Admin Stories`
-As an Admin, I want to manage user accounts (create, suspend, or delete users) so that I can maintain the platform’s safety and trust
+- As an Admin, I want to manage user accounts (create, suspend, or delete users) so that I can maintain the platform’s safety and trust
 
-As an Admin, I want to manage property listings (approve new listings or remove inappropriate ones) so that I can ensure the quality of the marketplace.
+- As an Admin, I want to manage property listings (approve new listings or remove inappropriate ones) so that I can ensure the quality of the marketplace.
